@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteRecordValidation", "DeleteRecordValidation\DeleteRecordValidation.csproj", "{010957F3-2245-47AA-9B47-AEC75396E8DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{010957F3-2245-47AA-9B47-AEC75396E8DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010957F3-2245-47AA-9B47-AEC75396E8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010957F3-2245-47AA-9B47-AEC75396E8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010957F3-2245-47AA-9B47-AEC75396E8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9898BD7-C815-4807-8F95-16297D014EBC}
+	EndGlobalSection
+EndGlobal
